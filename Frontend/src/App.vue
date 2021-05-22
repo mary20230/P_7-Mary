@@ -20,7 +20,7 @@ export default {
 
 <style>
   body {
-    background: rgb(61,71,190);
-    background: linear-gradient(90deg, rgba(61,71,190,1) 0%, rgba(10,81,166,1) 100%);
+    background: black;
+    background: linear-gradient(90deg, rgb(7, 7, 7) 0%, rgb(59, 61, 63) 100%);
   }
 </style>
